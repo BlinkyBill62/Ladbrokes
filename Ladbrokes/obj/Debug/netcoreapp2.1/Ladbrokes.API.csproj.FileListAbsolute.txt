@@ -1,0 +1,11 @@
+C:\VS2019\Ladbrokes1\Ladbrokes\bin\Debug\netcoreapp2.1\Ladbrokes.API.deps.json
+C:\VS2019\Ladbrokes1\Ladbrokes\bin\Debug\netcoreapp2.1\Ladbrokes.API.runtimeconfig.json
+C:\VS2019\Ladbrokes1\Ladbrokes\bin\Debug\netcoreapp2.1\Ladbrokes.API.runtimeconfig.dev.json
+C:\VS2019\Ladbrokes1\Ladbrokes\bin\Debug\netcoreapp2.1\Ladbrokes.API.dll
+C:\VS2019\Ladbrokes1\Ladbrokes\bin\Debug\netcoreapp2.1\Ladbrokes.API.pdb
+C:\VS2019\Ladbrokes1\Ladbrokes\obj\Debug\netcoreapp2.1\Ladbrokes.API.csprojAssemblyReference.cache
+C:\VS2019\Ladbrokes1\Ladbrokes\obj\Debug\netcoreapp2.1\Ladbrokes.API.csproj.CoreCompileInputs.cache
+C:\VS2019\Ladbrokes1\Ladbrokes\obj\Debug\netcoreapp2.1\Ladbrokes.API.AssemblyInfoInputs.cache
+C:\VS2019\Ladbrokes1\Ladbrokes\obj\Debug\netcoreapp2.1\Ladbrokes.API.AssemblyInfo.cs
+C:\VS2019\Ladbrokes1\Ladbrokes\obj\Debug\netcoreapp2.1\Ladbrokes.API.dll
+C:\VS2019\Ladbrokes1\Ladbrokes\obj\Debug\netcoreapp2.1\Ladbrokes.API.pdb
