@@ -1,0 +1,17 @@
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\Ladbrokes.UnitTest.deps.json
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\Ladbrokes.UnitTest.runtimeconfig.json
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\Ladbrokes.UnitTest.runtimeconfig.dev.json
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\Ladbrokes.UnitTest.dll
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\obj\Debug\netcoreapp2.1\Ladbrokes.UnitTest.csprojAssemblyReference.cache
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\obj\Debug\netcoreapp2.1\Ladbrokes.UnitTest.csproj.CoreCompileInputs.cache
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\obj\Debug\netcoreapp2.1\Ladbrokes.UnitTest.AssemblyInfoInputs.cache
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\obj\Debug\netcoreapp2.1\Ladbrokes.UnitTest.AssemblyInfo.cs
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\Ladbrokes.API.dll
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\Ladbrokes.UnitTest.pdb
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\bin\Debug\netcoreapp2.1\Ladbrokes.API.pdb
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\obj\Debug\netcoreapp2.1\Ladbrokes.UnitTest.csproj.CopyComplete
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\obj\Debug\netcoreapp2.1\Ladbrokes.UnitTest.dll
+C:\VS2019\Ladbrokes1\Ladbrokes.UnitTest\obj\Debug\netcoreapp2.1\Ladbrokes.UnitTest.pdb
